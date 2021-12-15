@@ -2,11 +2,13 @@
    <h1>Hi there, I'm Frabanz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave"> </h1>
 </div>
 
-[![YouTube](lofi-frabanz.gif)](https://youtu.be/H6AxCBrF__U)
+[![YouTube](src/lofi-frabanz.gif)](https://youtu.be/H6AxCBrF__U)
 
-[![Spotify](https://img.shields.io/badge/Frabanz%20-Spotify-1DB954.svg?style=flat-square&logo=spotify)](https://spoti.fi/3as0GJy)
-[![YouTube](https://img.shields.io/badge/Lofi%20Frabanz%20-YouTube-bb0000.svg?style=flat-square&logo=youtube)](https://youtu.be/H6AxCBrF__U)
-[![Behnace](https://img.shields.io/badge/Frabanz%20-Behance-053eff.svg?style=flat-square&logo=behance)](https://www.behance.net/franzbartsch)
-[![Instagram](https://img.shields.io/badge/Frabanz%20-Instagram-dd2a7b.svg?style=flat-square&logo=instagram)](https://www.instagram.com/fra.banz)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=frabanz.frabanz)
+<div align="center">
 
+[<img src="src/Spotify.svg" alt="Spotify" width="50"/>](https://spoti.fi/3as0GJy)
+[<img src="src/Youtube.svg" alt="Youtube" width="50"/>](https://youtu.be/H6AxCBrF__U)
+[<img src="src/Behance.svg" alt="Behance" width="50"/>](https://www.behance.net/franzbartsch)
+[<img src="src/Instagram.svg" alt="Instagram" width="50"/>](https://www.instagram.com/fra.banz/)
+
+</div>
