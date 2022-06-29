@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Frabanz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave"> </h1>
+   <h1>Hi there, I'm Frabanz <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 25px;"> </h1>
 </div>
 
 [![YouTube](src/lofi-frabanz.gif)](https://youtu.be/H6AxCBrF__U)
