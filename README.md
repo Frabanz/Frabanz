@@ -9,6 +9,6 @@
 [<img src="src/Spotify.svg" alt="Spotify" width="50"/>](https://spoti.fi/3as0GJy)
 [<img src="src/Youtube.svg" alt="Youtube" width="50"/>](https://youtu.be/H6AxCBrF__U)
 [<img src="src/Behance.svg" alt="Behance" width="50"/>](https://www.behance.net/franzbartsch)
-[<img src="src/Instagram.svg" alt="Instagram" width="50"/>](https://www.instagram.com/frabanz.design/)
+[<img src="src/Instagram.svg" alt="Instagram" width="50"/>](https://www.instagram.com/frabanz.studio/)
 
 </div>
